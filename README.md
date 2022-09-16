@@ -1,1 +1,1 @@
-# Fertilizer-Type-Prediction-
+# Fertilizer-Recommendation-System
