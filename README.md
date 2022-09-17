@@ -12,14 +12,11 @@ The soil parameters considered are Nitrogen , Pottasium , Phosphorous . Atmosphe
 * To recommend fertilizer on the basis of N, P, K values ,crop type and soil type.
 
 ## Tools & Technologies
-Model is built using following tools and technologies
-* Machine Learning (Technology)
-* Python(Programming Language)
-* HTML(For Webapp)
-* CSS
-* Flask (For Model Deployment)
-* Jupyter Notebbok(Platform)
-* Visual Studio(IDE)
+* Programming language - Python
+* Frontend - HTML, CSS.
+* Framework - Flask
+* IDE - Visual Studio
+* Tool- Jupyter Notebook
 
 
 ## How To Use
